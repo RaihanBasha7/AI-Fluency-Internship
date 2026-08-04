@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-
-# Sitemap location for search engines
-Sitemap: https://raihanbasha.dev/sitemap.xml
