@@ -6,7 +6,7 @@ Instead of testing only the happy path, I deliberately tested edge cases, invali
 
 ## Live Portfolio
 
-[View Live Portfolio](https://raihan-ai-portfolio-v2.netlify.app/)
+[View Live Portfolio](https://raihan-ai-portfolio-v2.netlify.app)
 
 ## Objectives
 
